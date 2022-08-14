@@ -24,4 +24,4 @@ The notebook conducts experiments under the following settings:
 
 * Experiment 4: Time v.s. Length of Mixed Operation Sequence
     * Sequence length $\in$ {0.1M, 0.2M, 0.5M, 0.8M, 1M}, where $M$ = one million
-    * $prob_{delete}=5\%, prob_{search}=5\%, prob_{insert}=90\%$
+    * $prob_{delete}$=5%, $prob_{search}$=5%, $prob_{insert}$=90\%
